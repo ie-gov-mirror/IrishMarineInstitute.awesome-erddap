@@ -9,6 +9,6 @@
 		"underscore": "^1.13.8"
 	},
 	"devDependencies": {
-		"markdownlint": "^0.26.0"
+		"markdownlint": "^0.41.0"
 	}
 }
